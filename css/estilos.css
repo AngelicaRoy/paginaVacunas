@@ -1,0 +1,60 @@
+nav{
+    background-color: #e3f2fd;
+}
+#titulo{
+    color: #1F2AE4; 
+    font-weight: 600; 
+    margin-left:5%;
+}
+div ul li a{
+    font-weight: 600; 
+    color:#818283;
+}
+.imagenGrande{
+    opacity: 0.5;
+}
+.stop{
+    padding-top:20px; 
+    color: #818283; 
+    font-weight: 625; 
+    margin-bottom: 35px;
+}
+.best{
+    margin-top: -25px; 
+    margin-left: 30px; 
+    color: #10226D; 
+    font-weight: 500;
+}
+.icono{
+    height: 20px; 
+    width: 20px; 
+    margin-top: 12px;
+}
+.horario{
+    margin-top: 120px; 
+    color: #10226D; 
+    font-weight: 700;
+}
+.reloj{
+    height: 30px; 
+    width: 30px; 
+    margin-top: 103px; 
+    padding-right: 10px;
+}
+.elemento{
+    text-decoration: none;
+    color:#818283; 
+    font-weight: 625;
+}
+#goal{
+    text-align: justify; 
+    margin-left: 20px; 
+    margin-top: -10px; 
+    color:#818283; 
+    font-weight: 625;
+}
+#img7{
+    margin-left: 70px; 
+    width: 80%; 
+    height: 102%;
+}
